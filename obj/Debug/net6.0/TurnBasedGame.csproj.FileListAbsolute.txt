@@ -1,0 +1,15 @@
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.exe
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.deps.json
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.runtimeconfig.json
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.dll
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\bin\Debug\net6.0\TurnBasedGame.pdb
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.csproj.AssemblyReference.cache
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.AssemblyInfoInputs.cache
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.AssemblyInfo.cs
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.dll
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\refint\TurnBasedGame.dll
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.pdb
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\TurnBasedGame.genruntimeconfig.cache
+C:\Users\dante\OneDrive\Documentos\Repos\TurnBasedGame - Natalia Fernandez, Jossua Duque\TurnBasedGame\obj\Debug\net6.0\ref\TurnBasedGame.dll

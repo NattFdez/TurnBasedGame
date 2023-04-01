@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rELeOQ/PKDF02egGJCHatmEVR8rb0ws8Ew8hDzhVR0uM8NUsSEPL/EMhcwsVCFylEa9PClJw1fh4Pfa87Q+hNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dante\\OneDrive\\Documentos\\Repos\\TurnBasedGame\\TurnBasedGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
